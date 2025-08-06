@@ -34,6 +34,7 @@ Backend Developer specializing in building robust APIs, scalable infrastructure,
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-0B0D12?style=flat-square&logo=railway&logoColor=white)
 
 <!-- Add more badges as needed -->
 
