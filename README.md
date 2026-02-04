@@ -5,7 +5,8 @@
 
 ## 💻 About Me
 
-<img src="https://camo.githubusercontent.com/f49526a95b264eb8669ff711dcdcace5ea2148fe3d5784bb4997d4476ae9561c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32382f30612f30352f32383061303563303566613463643035373137613932353664363631663432352e676966" align="right" width="200" />
+<img src="./pepe-emote.gif" align="right" width="100" />
+
 
 Backend Developer specializing in building robust APIs, scalable infrastructure, and cloud-native systems. Experienced with databases, distributed systems, and automation. Enthusiastic about integrating AI/ML capabilities to enhance backend solutions and streamline workflows.
 
