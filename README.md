@@ -1,6 +1,5 @@
-# Hi there 👋
 
-I'm **Ratnadeep Pal**, a **Python/Backend developer**.
+### I'm **Ratnadeep Pal**, a **Python/Backend developer**.
 
 ---
 
