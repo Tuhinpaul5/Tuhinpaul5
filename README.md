@@ -9,7 +9,7 @@
 <img src="./pepe-emote.gif" width="100" />
 
 
-Backend Developer specializing in building robust APIs, scalable infrastructure, and cloud-native systems. Experienced with databases, distributed systems, and automation. **Proficient in the Laravel ecosystem (PHP, Blade, Eloquent)** and enthusiastic about integrating AI/ML capabilities to enhance backend solutions and streamline workflows.
+Backend Developer specializing in building robust APIs, scalable infrastructure, and cloud-native systems. **Proficient in Python (FastAPI) as well as PHP (Laravel)**, with deep expertise in managing **PostgreSQL, MySQL, and Redis** for high-performance applications. Enthusiastic about integrating AI/ML capabilities to enhance backend solutions and streamline workflows.
 
 
 ---
