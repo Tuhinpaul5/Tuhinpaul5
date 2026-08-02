@@ -1,6 +1,6 @@
 <div align="center">
 
-### I'm **Ratnadeep Pal**, a **Full-Stack & Backend Developer**.
+### I'm **Ratnadeep Pal**, a **Full-Stack Developer**.
 
 ---
 
